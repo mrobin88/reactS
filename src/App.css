@@ -1,0 +1,21 @@
+.App {
+  display: flex;
+  flex-direction: column;
+}
+
+.App-header {
+  
+  height: 50px;
+  padding: 10px;
+  color: gray;
+  font-size: 22px;
+  text-align: center;
+  font-family: Roboto;
+}
+ footer{
+   align-self: center;
+
+ }
+ div.flex-h {
+  align-items: center;
+ }

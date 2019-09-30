@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono&display=swap');
+.timer {
+    font-family: 'Roboto Mono', monospace;
+    size: 40px;
+    color: gray;
+    margin-top:  30px;
+    margin-bottom: 30px;
+}
+  
+
